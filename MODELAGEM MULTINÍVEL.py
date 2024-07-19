@@ -1,10 +1,3 @@
-# MBA DATA SCIENCE & ANALYTICS USP/Esalq
-# SUPERVISED MACHINE LEARNING: MODELAGEM MULTINÍVEL
-# Prof. Dr. Luiz Paulo Fávero
-
-#!/usr/bin/env python
-# coding: utf-8
-
 
 # In[ ]: Importação dos pacotes necessários
 
